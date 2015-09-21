@@ -15,7 +15,7 @@ REQUIREMENTS
 INSTALLATION
 ------------
 1) Download and install pymol. http://sourceforge.net/projects/pymol/
-2) Download and unzip PyMine. https://github.com/rrchaudhari/PyMine
+2) Download and unzip PyMine. https://github.com/zhijunlilab/PyMine
 3) Open PyMol. Install PyMine: Plugins -> Manage Plugins -> Install -> (locate pymine.py file).
 4) Restart PyMol
 
